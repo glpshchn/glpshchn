@@ -26,6 +26,18 @@
   <img src="https://img.shields.io/badge/C%23-262626?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
   <img src="https://img.shields.io/badge/C++-262626?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-262626?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-262626?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-262626?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-262626?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-262626?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-262626?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-262626?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-262626?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+</p>
 
 ## Статистика GitHub
 
