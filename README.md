@@ -30,11 +30,6 @@
 ## Статистика GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=glpshchn&show_icons=true&theme=dark&hide_border=true&bg_color=262626" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glpshchn&layout=compact&theme=dark&hide_border=true&bg_color=262626" alt="Top langs" height="165" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com/?user=glpshchn&theme=dark&hide_border=true&background=262626" alt="GitHub streak" />
 </p>
 
